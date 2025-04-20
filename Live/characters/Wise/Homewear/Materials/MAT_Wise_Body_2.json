@@ -452,7 +452,6 @@
       "_CharacterSimplify": 0.0,
       "_CharacterStencil": 128.0,
       "_ClipPlane": 0.0,
-      "_ClipPlaneXZ": 0.0,
       "_ColorBlocks": 0.0,
       "_Cull": 2.0,
       "_Cutoff": 0.5,
@@ -583,7 +582,6 @@
       "_PerObjectShadowIntensity3": 1.0,
       "_PerObjectShadowIntensity4": 1.0,
       "_PerObjectShadowIntensity5": 1.0,
-      "_PlaneClipReverse": 0.0,
       "_PointSpace": 0.0,
       "_PointSpaceForCGLighting": 0.0,
       "_PowMax": 1.5,
@@ -608,7 +606,6 @@
       "_RefractDepth5": 0.5,
       "_RefractDepthFallback": 0.5,
       "_RenderType": 0.0,
-      "_ReversePlaneXZ": 0.0,
       "_RimGlow": 1.0,
       "_ScreenImage": 0.0,
       "_ScreenMaskUV": 0.0,
@@ -673,7 +670,7 @@
       "_StretchDistance": 0.0,
       "_StretchPercentage": 0.0,
       "_SymmetryUV": 0.0,
-      "_TabSelection": 3.0,
+      "_TabSelection": 0.0,
       "_ToonSpecular": 0.01,
       "_ToonSpecular2": 0.01,
       "_ToonSpecular3": 0.01,
@@ -684,7 +681,6 @@
       "_TransitionCompletion": 0.0,
       "_TransitionWidth": 0.1,
       "_UseChannelMixer": 0.0,
-      "_UseClipPlane": 0.0,
       "_UseInvSecondaryEmissionMask": 0.0,
       "_UseMatCapMask": 0.0,
       "_UseOverlayTex": 1.0,
@@ -772,12 +768,6 @@
       },
       "_CharacterMainLightData": {
         "r": -1.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 0.0
-      },
-      "_CharacterTempV0104": {
-        "r": 0.0,
         "g": 0.0,
         "b": 0.0,
         "a": 0.0
@@ -1153,12 +1143,6 @@
         "g": 0.0,
         "b": 0.0,
         "a": 0.0
-      },
-      "_PlaneXZScale": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 1.0
       },
       "_PointPosition": {
         "r": 0.0,
